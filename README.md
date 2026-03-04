@@ -26,11 +26,12 @@ Git & GitHub
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokshith08&show_icons=true&theme=dark)
+
+![Mokshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokshith08&show_icons=true&theme=dark)
 
 ---
 
 📫 Contact
 
-📧 mokshithmendon978@gmail.com
+📧 Email: mokshithmendon978@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/mokshith-k-mendon-b1335a32

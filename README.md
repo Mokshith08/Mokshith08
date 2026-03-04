@@ -1,10 +1,8 @@
 Hi, I'm Mokshith Mendon 👋
-
-🎓 Computer Science Student at Mangalore Institute of Technology and Engineering  
+![Profile views](https://komarev.com/ghpvc/?username=Mokshith08&color=blue)
+🎓 Computer Science Student at Mangalore Institute of Technology and Engineering |
 💻 Aspiring Software Engineer
 
----
-![Profile views](https://komarev.com/ghpvc/?username=Mokshith08&color=blue)
 
 ---
 

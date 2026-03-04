@@ -4,6 +4,9 @@ Hi, I'm Mokshith Mendon 👋
 💻 Aspiring Software Engineer
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=Mokshith08&color=blue)
+
+---
 
 🚀 Projects
 
@@ -36,3 +39,8 @@ Hi, I'm Mokshith Mendon 👋
 
 📧 Email: mokshithmendon978@gmail.com   
 💼 LinkedIn: https://www.linkedin.com/in/mokshith-k-mendon-b1335a32
+
+---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Mokshith08/Mokshith08/blob/output/github-contribution-grid-snake.svg)

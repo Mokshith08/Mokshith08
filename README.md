@@ -32,5 +32,5 @@ Hi, I'm Mokshith Mendon 👋
 
 📫 Contact
 
-📧 Email: mokshithmendon978@gmail.com 
+📧 Email: mokshithmendon978@gmail.com   
 💼 LinkedIn: https://www.linkedin.com/in/mokshith-k-mendon-b1335a32

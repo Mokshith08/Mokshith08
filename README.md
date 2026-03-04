@@ -1,6 +1,6 @@
 Hi, I'm Mokshith Mendon 👋
 
-🎓 Computer Science Student at Mangalore Institute of Technology and Engineering
+🎓 Computer Science Student at Mangalore Institute of Technology and Engineering  
 💻 Aspiring Software Engineer
 
 ---
@@ -22,6 +22,8 @@ Hi, I'm Mokshith Mendon 👋
 - C
 - SQL
 - Git & GitHub
+- Java
+- Python
 
 ---
 

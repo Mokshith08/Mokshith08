@@ -25,10 +25,9 @@ Hi, I'm Mokshith Mendon 👋
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mokshith08&show_icons=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mokshith08)
 ---
 
 📫 Contact

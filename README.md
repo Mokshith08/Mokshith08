@@ -16,12 +16,12 @@ Hi, I'm Mokshith Mendon 👋
 
 🛠 Skills
 
-HTML
-CSS
-JavaScript
-C
-SQL
-Git & GitHub
+-HTML
+-CSS
+-JavaScript
+-C
+-SQL
+-Git & GitHub
 
 ---
 

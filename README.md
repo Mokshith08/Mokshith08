@@ -16,22 +16,22 @@ Hi, I'm Mokshith Mendon 👋
 
 🛠 Skills
 
--HTML
--CSS
--JavaScript
--C
--SQL
--Git & GitHub
+- HTML
+- CSS
+- JavaScript
+- C
+- SQL
+- Git & GitHub
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mokshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokshith08&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mokshith08&show_icons=true)
 
 ---
 
 📫 Contact
 
-📧 Email: mokshithmendon978@gmail.com
+📧 Email: mokshithmendon978@gmail.com 
 💼 LinkedIn: https://www.linkedin.com/in/mokshith-k-mendon-b1335a32

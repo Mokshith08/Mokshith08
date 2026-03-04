@@ -1,5 +1,4 @@
 Hi, I'm Mokshith Mendon 👋  
-![Profile views](https://komarev.com/ghpvc/?username=Mokshith08&color=blue)  
 🎓 Computer Science Student at Mangalore Institute of Technology and Engineering |
 💻 Aspiring Software Engineer
 

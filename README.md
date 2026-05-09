@@ -86,7 +86,7 @@ const myreadme = {
 
 [![Email](https://img.shields.io/badge/Gmail-mendonmokshith%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mendonmokshith@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mokshith%20K%20Mendon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/mokshith-k-mendonb1335a320)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mokshith%20K%20Mendon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/mokshith-k-mendon-b1335a320)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Mokshith08-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Mokshith08)
 

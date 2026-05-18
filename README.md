@@ -42,8 +42,8 @@ const myreadme = {
 | 🏷️ Project | 📝 Description | 🔧 Tech |
 |:---:|:---|:---:|
 | 🛍️ **Casart** | Responsive e-commerce website with clean UI | `HTML` `CSS` `JS` |
-| 🌊 **OceanGuard** | Marine risk prediction & monitoring system | `Python` `ML` |
-| 📅 **MeetX** | Meeting room booking application | `Full Stack` |
+| 🌊 **OceanGuard** | Marine risk prediction & monitoring system | `Python` `ML` `Full Stack` |
+| 📅 **MeetX** | Meeting room booking application | `HTML`  `CSS` `JS` `PHP` |
 | 🧮 **Web Calculator** | Sleek calculator with modern UI | `HTML` `CSS` `JS` |
 
 </div>

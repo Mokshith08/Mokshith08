@@ -62,8 +62,9 @@ const myreadme = {
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mokshith08&theme=onestar&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mokshith08&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"/>
+</div>
 
 ## 🐍 Contribution Snake
 

@@ -63,7 +63,7 @@ const myreadme = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mokshith08&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"/>
+<img src="https://ghchart.rshah.org/6C63FF/Mokshith08" width="100%"/>
 </div>
 
 ## 🐍 Contribution Snake

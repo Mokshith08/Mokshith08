@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:a78bfa&height=210&section=header&text=Mokshith%20K%20Mendon&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Software%20Developer%20%7C%20Builder&descAlignY=62&descSize=16&descColor=e0d7ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:a78bfa&height=210&section=header&text=Mokshith%20K%20Mendon&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Software%20Developer%20%7C%20Full%20Stack&descAlignY=62&descSize=16&descColor=e0d7ff" width="100%"/>
 
 <br/>
 
@@ -29,7 +29,7 @@ const myreadme = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,mysql,git,github,vscode&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,mysql,git,github,react,mongodb,vscode&theme=dark&perline=5"/>
 
 </div>
 

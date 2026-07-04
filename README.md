@@ -43,7 +43,8 @@ const myreadme = {
 |:---:|:---|:---:|
 | 🛍️ **Casart** | Responsive e-commerce website with clean UI | `HTML` `CSS` `JS` |
 | 🌊 **OceanGuard** | Marine risk prediction & monitoring system | `Python` `ML` `Full Stack` |
-| 📅 **MeetX** | Meeting room booking application | `HTML`  `CSS` `JS` `PHP` |
+| 🧬 **GenoVault** | Genomic data access control & Research integrity system using blockchain | `Azure` `Blockchain` `Full Stack` |
+| 📅  **MeetX** | Meeting room booking application | `HTML`  `CSS` `JS` `PHP` |
 | 🧮 **Web Calculator** | Sleek calculator with modern UI | `HTML` `CSS` `JS` |
 
 </div>

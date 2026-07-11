@@ -29,7 +29,7 @@ const myreadme = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c++,c,mysql,git,github,react,mongodb,vscode&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,c,mysql,git,github,react,mongodb,vscode&theme=dark&perline=5"/>
 
 </div>
 
